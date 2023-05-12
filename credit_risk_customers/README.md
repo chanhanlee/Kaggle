@@ -1,4 +1,5 @@
 # credit_risk_customers
+資料來源:Kaggle
 ## 選用模型:邏輯斯迴歸、貝式分類器、K近鄰法、決策樹 XGBOOST
 ```
 Model: LogisticRegression
