@@ -1,7 +1,6 @@
 ### Financial Sentiment Analysis
-這邊我用的模型是roberta，
-
-指標我選用MCC
+金融市場情緒二元分類，0=negative，1=positive
+這邊我用的模型是roberta，因原生資料類別不平衡，評估指標我選用MCC
 
 訓練出的最佳MODEL成果
 
