@@ -1,7 +1,12 @@
 ### Financial Sentiment Analysis
-這邊我用的模型是roberta，指標我選用MCC
+這邊我用的模型是roberta，
+
+指標我選用MCC
+
 訓練出的最佳MODEL成果
+
 eval_loss = 0.5431285639469688
+
 mcc = 0.8464187930882822
 
 ```
